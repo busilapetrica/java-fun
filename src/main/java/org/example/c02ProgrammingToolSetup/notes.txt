@@ -1,0 +1,6 @@
+install java v17
+java SE 17.. (LTS) - x64 installer
+https://www.oracle.com/java/technologies/
+
+
+

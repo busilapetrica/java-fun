@@ -1,0 +1,12 @@
+java is the language and JDK help you to write java Programs
+java 17 is the recommendation to use because is supported at least 2029
+
+intelliJ IDEA software
+
+JDK - java Development Kit  -  and it is the software that is used to create and run java programs
+JVM - Java Virtual machine
+JRE - Java Runtime Edition
+
+JShell - Standard component of Java Development Kit
+- it reads the command or code segment we type in
+-it evaluates and executes the code , and often allows short cuts to be used
