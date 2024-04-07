@@ -1,0 +1,15 @@
+Statement - command to be executed
+- can include one or more expression
+
+JShell - /exit or /ex will end your JShell
+
+#KeyWords
+-java words reserved - this may allow to java compiler to traduce better error messages
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html
+
+#variable
+- can be accessed by name and is stored in RAM ( random access memory)
+
+Declaration Statement - used to define a variable by indicating the data type and the name
+Expression -  coding construct , that evaluates to a single value
+
