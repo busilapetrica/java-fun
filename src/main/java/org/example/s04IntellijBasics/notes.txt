@@ -1,0 +1,13 @@
+intelliJ shortcuts:
+
+ctr+alt+m - create a new method
+alt+enter - create a new test
+ctr + shift + arrowUp  - move rowsUp
+
+Class - collection of
+Method is a collection of statements
+
+#Ternary Operator
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html
+
+
