@@ -1,4 +1,4 @@
-package org.example.s04IntellijBasics;
+package org.example.c04IntellijBasics;
 
 public class Challenge {
     public static void main(String[] args) {

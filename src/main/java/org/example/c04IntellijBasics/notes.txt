@@ -3,6 +3,7 @@ intelliJ shortcuts:
 ctr+alt+m - create a new method
 alt+enter - create a new test
 ctr + shift + arrowUp  - move rowsUp
+ctr + /  - will comment all lines selected
 
 Class - collection of
 Method is a collection of statements

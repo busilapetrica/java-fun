@@ -1,0 +1,10 @@
+Expression - an expression computes to a single value
+Statement - Statements are stand-alone units of work
+Code Blocks - a code block is a set of zero, one, or more statements, usually grouped together in some way to achive a single goal
+
+int myVariable = 5; // Entire line is a Statement and "myVariable = 5" is a statement
+
+#Parameters orArguments
+Parameters is the definition as shown in the method declaration
+Arguments will be the value that's passed to the method when we call it
+
