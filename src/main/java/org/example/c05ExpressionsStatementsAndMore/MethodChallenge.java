@@ -1,6 +1,9 @@
 package org.example.c05ExpressionsStatementsAndMore;
 
 public class MethodChallenge {
+    private MethodChallenge() {
+    }
+
     public static void main(String[] args) {
         int highScorePosition = calculateHighScorePosition(1500);
         displayHighScorePosition("Tim", highScorePosition);

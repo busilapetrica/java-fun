@@ -2,6 +2,9 @@ package org.example.c05ExpressionsStatementsAndMore;
 
 public class PositiveNegativeOrZero {
 
+    private PositiveNegativeOrZero() {
+    }
+
     public static String checkNumber(int number) {
 String checkNumber ;
         if (number > 0) {

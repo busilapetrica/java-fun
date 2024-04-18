@@ -12,8 +12,6 @@ j
 :src/main/java/org/example/c04IntellijBasics/Challenge.java,b\d\bddaf51af4cf34f3a42daa765c81dfa20bd1f7a0
 s
 Csrc/main/java/org/example/c05ExpressionsStatementsAndMore/notes.txt,2\1\216baedd1e48eff2b8bb1adec3d348abe045ae5e
-s
-Csrc/main/java/org/example/c05ExpressionsStatementsAndMore/Main.java,5\f\5f9ff40924080e35a614b6574ff217d13c7e7899
 e
 5src/main/java/org/example/c04IntellijBasics/notes.txt,c\0\c0408a09a2c14b5644f2b7af4bb97aa28dca166f
 ~
@@ -22,3 +20,7 @@ Nsrc/main/java/org/example/c05ExpressionsStatementsAndMore/MethodChallenge.java
 Usrc/main/java/org/example/c05ExpressionsStatementsAndMore/PositiveNegativeOrZero.java,a\6\a62b43c9d164df7898dcf9070a7be6b9d3339317
 â
 Ysrc/test/java/org/example/c05ExpressionsStatementsAndMore/PositiveNegativeOrZeroTest.java,f\3\f349b0c0a5785ba9b96a74b8db74eb77d098eef2
+}
+Msrc/main/java/org/example/c05ExpressionsStatementsAndMore/SpeedConvertor.java,c\3\c3d5685ccba8d0a8f42c76083cf8e96b4cac6af4
+Å
+Qsrc/test/java/org/example/c05ExpressionsStatementsAndMore/SpeedConvertorTest.java,c\2\c2dbdf3331b0013db230f2fa01d1c510c05aafaa
