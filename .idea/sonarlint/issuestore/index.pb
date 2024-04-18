@@ -24,3 +24,5 @@ Ysrc/test/java/org/example/c05ExpressionsStatementsAndMore/PositiveNegativeOrZer
 Msrc/main/java/org/example/c05ExpressionsStatementsAndMore/SpeedConvertor.java,c\3\c3d5685ccba8d0a8f42c76083cf8e96b4cac6af4
 Å
 Qsrc/test/java/org/example/c05ExpressionsStatementsAndMore/SpeedConvertorTest.java,c\2\c2dbdf3331b0013db230f2fa01d1c510c05aafaa
+Å
+Qsrc/main/java/org/example/c05ExpressionsStatementsAndMore/MegaBytesConverter.java,f\7\f7806e0398617ecd7f26128e5cb954a9c38adb25
