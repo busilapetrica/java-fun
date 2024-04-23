@@ -38,3 +38,7 @@ Usrc/test/java/org/example/c05ExpressionsStatementsAndMore/LeapYearCalculatorTes
 Psrc/main/java/org/example/c05ExpressionsStatementsAndMore/DecimalComparator.java,2\b\2be624dc01a5db3473ce259fd768cad503324f81
 „
 Tsrc/test/java/org/example/c05ExpressionsStatementsAndMore/DecimalComparatorTest.java,e\2\e2e130a023c7216bc43159a163e046f2dc212bf7
+~
+Nsrc/main/java/org/example/c05ExpressionsStatementsAndMore/EqualSumChecker.java,a\d\adba872c73e3b2b8f8ab946143adeea3e71cf407
+‚
+Rsrc/test/java/org/example/c05ExpressionsStatementsAndMore/EqualSumCheckerTest.java,2\f\2fe28fc5a5e8cb44c008e96be730caaa4035754a
