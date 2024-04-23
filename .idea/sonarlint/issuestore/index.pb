@@ -32,3 +32,5 @@ Isrc/main/java/org/example/c05ExpressionsStatementsAndMore/BarkingDog.java,c\c\
 Msrc/test/java/org/example/c05ExpressionsStatementsAndMore/BarkingDogTest.java,d\7\d71943fee0fb9a867d79ef4e5b4c622255ded97e
 Å
 Qsrc/main/java/org/example/c05ExpressionsStatementsAndMore/LeapYearCalculator.java,b\5\b550c497d557170f9d57a52fa384f962322ab9c4
+Ö
+Usrc/test/java/org/example/c05ExpressionsStatementsAndMore/LeapYearCalculatorTest.java,1\b\1b97f50257ca0c3dea22b25d2c314e8ff078e0c8
