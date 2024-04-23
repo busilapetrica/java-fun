@@ -34,3 +34,7 @@ Msrc/test/java/org/example/c05ExpressionsStatementsAndMore/BarkingDogTest.java,
 Qsrc/main/java/org/example/c05ExpressionsStatementsAndMore/LeapYearCalculator.java,b\5\b550c497d557170f9d57a52fa384f962322ab9c4
 …
 Usrc/test/java/org/example/c05ExpressionsStatementsAndMore/LeapYearCalculatorTest.java,1\b\1b97f50257ca0c3dea22b25d2c314e8ff078e0c8
+€
+Psrc/main/java/org/example/c05ExpressionsStatementsAndMore/DecimalComparator.java,2\b\2be624dc01a5db3473ce259fd768cad503324f81
+„
+Tsrc/test/java/org/example/c05ExpressionsStatementsAndMore/DecimalComparatorTest.java,e\2\e2e130a023c7216bc43159a163e046f2dc212bf7
