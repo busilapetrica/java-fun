@@ -26,3 +26,7 @@ Msrc/main/java/org/example/c05ExpressionsStatementsAndMore/SpeedConvertor.java,
 Qsrc/test/java/org/example/c05ExpressionsStatementsAndMore/SpeedConvertorTest.java,c\2\c2dbdf3331b0013db230f2fa01d1c510c05aafaa
 Å
 Qsrc/main/java/org/example/c05ExpressionsStatementsAndMore/MegaBytesConverter.java,f\7\f7806e0398617ecd7f26128e5cb954a9c38adb25
+y
+Isrc/main/java/org/example/c05ExpressionsStatementsAndMore/BarkingDog.java,c\c\cc22aafab261365d1cb1c196af3dcbb92a118018
+}
+Msrc/test/java/org/example/c05ExpressionsStatementsAndMore/BarkingDogTest.java,d\7\d71943fee0fb9a867d79ef4e5b4c622255ded97e
