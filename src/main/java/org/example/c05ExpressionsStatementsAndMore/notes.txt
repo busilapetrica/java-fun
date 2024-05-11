@@ -8,3 +8,6 @@ int myVariable = 5; // Entire line is a Statement and "myVariable = 5" is a stat
 Parameters is the definition as shown in the method declaration
 Arguments will be the value that's passed to the method when we call it
 
+
+Method overloading when a class has multiple methods with same name , but the methods are declarative with different parameters.
+
